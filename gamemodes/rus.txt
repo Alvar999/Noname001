@@ -1,0 +1,90 @@
+./includes/commands.pwn(13837) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(57671) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(58212) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(58217) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(58336) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(58348) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(58740) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(59009) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/commands.pwn(59010) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnPlayerLoad.pwn(315) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "var0"
+./includes/OnPlayerLoad.pwn(314) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/OnPlayerLoad.pwn(323) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/OnPlayerLoad.pwn(760) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnPlayerLoad.pwn(761) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnPlayerLoad.pwn(763) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnPlayerLoad.pwn(773) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(1360) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(1374) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(1603) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(1607) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(1774) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(2339) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "var1"
+./includes/callbacks.pwn(2338) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "var0"
+./includes/callbacks.pwn(2776) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/callbacks.pwn(3097) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(3572) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(3593) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(3599) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(3616) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(5085) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(5089) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6621) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6632) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6639) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6645) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6658) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6711) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6740) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6770) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6790) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6858) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6860) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(6892) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/callbacks.pwn(7291) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/textdraws.pwn(725) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/textdraws.pwn(3553) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/textdraws.pwn(3554) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/streamer.pwn(576) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/streamer.pwn(656) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/streamer.pwn(1353) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/streamer.pwn(1669) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/streamer.pwn(1676) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(980) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(1975) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(1994) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2114) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2132) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2166) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2245) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2266) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2277) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2372) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2641) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2815) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(2876) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(9036) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(9038) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(9104) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(20910) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./includes/OnDialogResponse.pwn(20902) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./includes/variables.pwn(152) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "AntiFarmRank"
+./includes/variables.pwn(13) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "CauCaPoint"
+./includes/variables.pwn(150) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Duel_Text"
+./includes/variables.pwn(94) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GroupText"
+./includes/variables.pwn(42) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "KhaiThacActor"
+./includes/variables.pwn(97) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "MayDau"
+C:\Users\Administrator\Desktop\SELL [26-01-2022]\SELL [400]\gamemodes\kgame.pwn(605) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "NPCCheBienBanhChung"
+C:\Users\Administrator\Desktop\SELL [26-01-2022]\SELL [400]\gamemodes\kgame.pwn(64) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "NationSel_SetupSelectedNation"
+C:\Users\Administrator\Desktop\SELL [26-01-2022]\SELL [400]\gamemodes\kgame.pwn(88) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "NationSel_SwitchToNextNation"
+C:\Users\Administrator\Desktop\SELL [26-01-2022]\SELL [400]\gamemodes\kgame.pwn(99) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "NationSel_SwitchToPrevNation"
+./includes/variables.pwn(61) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "VongQuay1_Money"
+./includes/variables.pwn(26) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "acctor"
+./includes/variables.pwn(11) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "glob0"
+./includes/variables.pwn(15) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "glob2640"
+./includes/variables.pwn(18) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "glob2644"
+./includes/variables.pwn(20) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "glob2B74"
+./includes/variables.pwn(334) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "rRandomSpawnP1"
+./includes/variables.pwn(343) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "rRandomSpawnP2"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
